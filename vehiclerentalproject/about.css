@@ -1,0 +1,33 @@
+body{
+	background: gray;
+}
+.main_div{
+	background:white;
+	border-radius: 20px;
+	font-family: 'Philosopher',sans-serif;
+	font-size: 20px;
+}
+.team_details{
+	background:linear-gradient(rgba(255, 255, 255, 1.0),rgba(255, 255, 255, 1.0));
+	border-radius: 20px;
+	font-family: 'Philosopher',sans-serif;
+}
+.mission_div{
+	background: white;
+	border-radius: 20px;
+	background:linear-gradient(rgba(73, 142, 234 , 0.2),rgba(73, 142, 234 ,0.2));
+}
+.mission_div .div_1{
+	background: blue;
+	border-radius: 20px 0px 0px 20px;
+	font-size: 15px;
+}
+.vission_div{
+	background: white;
+	border-radius: 20px;
+	background:linear-gradient(rgba(73, 142, 234 , 0.2),rgba(73, 142, 234 ,0.2));
+}
+.vission_div .div_1{
+	background: blue;
+	border-radius: 20px 0px 0px 20px;
+}

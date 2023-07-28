@@ -1,0 +1,34 @@
+body{
+	width: 100%;
+	height: 100vh;
+}
+.card-img-top{
+	width: 100;
+	height: 20rem;
+
+/*	object-fit: contain;*/
+}
+.card-img-top:hover{
+  opacity: 0.7;
+}
+.logo_name{
+	font-family: 'Philosopher',sans-serif;
+}
+.section3 h3{
+	font-family: 'Philosopher',sans-serif;
+	font-size: 50px;
+}
+.section3 h3 img{
+	height: 40px;
+	width: 40px;
+	margin-bottom:10px ;
+
+}
+.section3 h5{
+	font-family:'Philosopher';
+	font-size: 30px;
+	line-height: 10px;
+}
+.section3 h5 span{
+	color: blue;
+}
